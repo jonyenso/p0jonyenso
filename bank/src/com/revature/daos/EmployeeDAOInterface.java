@@ -1,2 +1,4 @@
-package com.revature.daos;public interface EmployeeDAOInterface {
+package com.revature.daos;
+
+public interface EmployeeDAOInterface {
 }

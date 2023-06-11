@@ -1,2 +1,4 @@
-package com.revature.utils;public class ConnectionUtil {
+package com.revature.utils;
+
+public class ConnectionUtil {
 }
